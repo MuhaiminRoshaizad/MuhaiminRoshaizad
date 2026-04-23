@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhaimin%20Roshaizad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=minned&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <p>
   <a href="mailto:aminmuhaimin192@gmail.com">
@@ -22,7 +22,7 @@
 ### 👋 About Me
 
 ```yaml
-name:     Muhaimin Roshaizad
+name:     minned
 role:     Full-Stack Developer (Mobile · Web)
 focus:    Flutter apps · Next.js web · APIs · Side projects
 mantra:   "thrive to do better"
