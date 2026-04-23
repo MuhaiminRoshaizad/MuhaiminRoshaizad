@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhaimin%20Roshaizad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Side-project%20enjoyer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhaimin%20Roshaizad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <p>
+  <a href="mailto:aminmuhaimin192@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,13 +23,13 @@
 
 ```yaml
 name:     Muhaimin Roshaizad
-role:     Developer
-focus:    Mobile apps · Web · Bots · Whatever catches my eye
+role:     Full-Stack Developer (Mobile · Web)
+focus:    Flutter apps · Next.js web · APIs · Side projects
 mantra:   "thrive to do better"
 based_in: Malaysia 🇲🇾
 ```
 
-By day I work on production software. By night I ship side projects — small, scrappy, and built for fun. I like turning "what if I just built this myself" into something real.
+I work across the stack — Flutter on mobile, Next.js/React on the web, and whatever backend the job needs (Laravel, Go, Python). By day I ship production software. By night I tinker with side projects — small, scrappy, and built for fun.
 
 ---
 
@@ -105,7 +108,7 @@ More hobby projects are on the way — usually whatever small itch I feel like s
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhaiminRoshaizad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhaiminRoshaizad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" width="95%" />
 
 </div>
 
@@ -114,6 +117,10 @@ More hobby projects are on the way — usually whatever small itch I feel like s
 <div align="center">
 
 <sub>💬 Got an idea for a side project? I'm always down to tinker.</sub>
+
+<br>
+
+<sub>📨 <a href="mailto:aminmuhaimin192@gmail.com">aminmuhaimin192@gmail.com</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
