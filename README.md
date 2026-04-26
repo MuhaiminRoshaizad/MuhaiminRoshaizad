@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0a,40:0d1f0d,100:4ade80&height=200&section=header&text=minned.exe&fontSize=52&fontColor=4ade80&animation=fadeIn&fontAlignY=36&desc=mobile%20%7C%20full-stack-ish%20%7C%20build%20to%20fix%20real%20frictions&descAlignY=56&descSize=14" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&lines=mobile+app+developer+%C2%B7+full-stack-ish;flutter+today%2C+react+native+next;build+the+smallest+thing+that+fixes+the+friction;real+frictions+%3E+hypothetical+features;thrive+to+do+better)](https://muhaiminroshaizad.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&lines=mobile+app+developer+%C2%B7+full-stack-ish;flutter+today%2C+react+native+next;build+the+smallest+thing+that+fixes+the+friction;real+frictions+%3E+hypothetical+features;thrive+to+do+better)](https://minned.pages.dev)
 
 <br>
 
 <p>
-  <a href="https://muhaiminroshaizad.github.io">
+  <a href="https://minned.pages.dev">
     <img src="https://img.shields.io/badge/portfolio-4ade80?style=for-the-badge&logo=astro&logoColor=0a0f0a" />
   </a>
   <a href="mailto:aminmuhaimin192@gmail.com">
@@ -99,7 +99,7 @@ mobile apps, admin portals & backend services. spans muslim-tech, community mana
 </tr>
 </table>
 
-> 👀 see the full breakdown with stacks, descriptions and architecture on the **[portfolio site →](https://muhaiminroshaizad.github.io)**
+> 👀 see the full breakdown with stacks, descriptions and architecture on the **[portfolio site →](https://minned.pages.dev)**
 
 ---
 
@@ -167,7 +167,7 @@ $ ./minned --contact
 > open to collaboration · ping me anytime.
 ```
 
-<a href="https://muhaiminroshaizad.github.io">
+<a href="https://minned.pages.dev">
   <img src="https://img.shields.io/badge/$%20cd%20~/portfolio-4ade80?style=for-the-badge&logoColor=0a0f0a" />
 </a>
 
