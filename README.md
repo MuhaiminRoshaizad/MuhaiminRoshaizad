@@ -62,9 +62,9 @@ when i'm not at the laptop i'm usually outside, gaming, or quietly working from 
 
 <table>
   <tr>
-    <td width="33%" align="center"><img src="assets/camp.jpg" alt="camping" /></td>
-    <td width="33%" align="center"><img src="assets/gaming.jpg" alt="gaming" /></td>
-    <td width="33%" align="center"><img src="assets/work.jpg" alt="working" /></td>
+    <td width="33%" align="center"><img src="assets/camp.jpg" width="100%" alt="camping" /></td>
+    <td width="33%" align="center"><img src="assets/gaming.jpg" width="100%" alt="gaming" /></td>
+    <td width="33%" align="center"><img src="assets/work.jpg" width="100%" alt="working" /></td>
   </tr>
   <tr align="center">
     <td><sub>outside</sub></td>
