@@ -1,66 +1,45 @@
-<h1 align="center">Muhammad Muhaimin Roshaizad</h1>
+<h1>hi, i'm muhaimin 👋</h1>
 
-<p align="center">
-  Mobile app developer focused on practical, well-built software for real day-to-day problems.
-</p>
+mobile app developer from malaysia. i like apps that solve *one annoying thing* properly.
 
-<p align="center">
-  <a href="https://minned.pages.dev">Portfolio</a> -
-  <a href="mailto:aminmuhaimin192@gmail.com">Email</a> -
-  <a href="https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/">LinkedIn</a> -
-  <a href="https://www.instagram.com/minnedddd/">Instagram</a>
-</p>
+<img src="assets/me.jpg" width="420" alt="me" />
 
 ---
 
-## About
+### about
 
-I'm a Malaysia-based mobile app developer with a B.Comp.Sci. (Hons.) in Mobile Computing from UiTM Kuala Terengganu.
+i build mobile apps — mostly flutter, slowly picking up more on the full-stack side (next.js, go) and helping out with general it stuff when it comes up. i'm not trying to sound bigger than the work. i just like building useful things and learning the stack properly.
 
-Most of my work starts from a practical friction: splitting repayments, tracking meaningful routines, improving internal workflows, or making community tools easier to use. I like building small, focused products that solve the problem clearly before they grow in scope.
+most of what i make starts from a small personal friction — splitting bills with friends, tracking zikir counts, dumb discord bots — and grows only when it needs to.
 
-Currently, I work mostly with Flutter while expanding into React Native, React, and Go for broader full-stack product work.
+### what i'm working with
 
-## Selected Work
+`flutter` · `dart` · `riverpod` · `go` · `next.js` · `react` · `typescript` · `tailwind` · `supabase` · `firebase` · `postgres` · `figma`
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [SelawatHub](https://github.com/MuhaiminRoshaizad/SelawatHub) | A selawat and zikir companion for tracking recitations, daily content, and sharing progress with friends. | Flutter, Riverpod, Supabase, audioplayers |
-| [PayBack](https://github.com/MuhaiminRoshaizad/PayBack) | A split-bills and repayment tracker designed to make shared expenses easier to manage. | Flutter, Dart |
-| [discord-facts-bot](https://github.com/MuhaiminRoshaizad/discord-facts-bot) | A multi-server Discord bot that posts a fact of the day. | Python, discord.py, pytz |
-| Confidential work | Mobile apps, admin portals, and backend services across community, Muslim-tech, and internal tooling use cases. | Flutter, Next.js, Laravel, Go |
+### a few projects
 
-For a more complete project breakdown, visit [minned.pages.dev](https://minned.pages.dev).
+- **[selawathub](https://github.com/MuhaiminRoshaizad/SelawatHub)** — selawat & zikir companion, with daily content and progress sharing. flutter + supabase.
+- **[payback](https://github.com/MuhaiminRoshaizad/PayBack)** — split-bills and repayment tracker for friends/roommates. flutter.
+- **[discord-facts-bot](https://github.com/MuhaiminRoshaizad/discord-facts-bot)** — multi-server bot that posts a fact of the day. python.
 
-## Toolkit
+more on my [portfolio](https://minned.pages.dev) ↗
 
-**Mobile:** Flutter, Dart, Riverpod, React Native
+### education
 
-**Web:** React, Next.js, TypeScript, Tailwind CSS, Astro, Livewire
+- **b.comp.sci. (hons.) mobile computing** — uitm kuala terengganu *(2021–2025)*
+- **engineering foundation** — uitm dengkil *(2020–2021)*
+- **spm, electrical & electronic engineering** — smt tar putra *(2018–2019)*
 
-**Backend:** Go, Laravel, PHP, Python, Node.js
+<img src="assets/graduation.jpg" width="280" alt="graduation" />
 
-**Data:** PostgreSQL, MySQL, Supabase, Firebase
+### off-screen
 
-**Tools:** Docker, GitHub Actions, Vite, Figma
+when i'm not at the laptop i'm usually outside — camping, taking random photos of small things, fixing stuff around the house.
 
-## Current Focus
+<img src="assets/camp.jpg" width="280" alt="camp" />
 
-- Shipping production mobile apps with Flutter.
-- Improving product design instincts and frontend interaction work.
-- Learning React Native to broaden mobile delivery options.
-- Going deeper with Go for backend services.
-- Continuing to iterate on SelawatHub as a personal product.
+---
 
-## Education
+### find me
 
-- B.Comp.Sci. (Hons.) Mobile Computing, UiTM Kuala Terengganu, 2021-2025
-- Engineering Foundation, UiTM Dengkil, 2020-2021
-
-## Contact
-
-I'm open to thoughtful collaborations, useful side projects, and technical conversations.
-
-- Portfolio: [minned.pages.dev](https://minned.pages.dev)
-- Email: [aminmuhaimin192@gmail.com](mailto:aminmuhaimin192@gmail.com)
-- LinkedIn: [muhammad-muhaimin-bin-roshaizad](https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/)
+[portfolio](https://minned.pages.dev) · [email](mailto:aminmuhaimin192@gmail.com) · [linkedin](https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/) · [instagram](https://www.instagram.com/minnedddd/)
