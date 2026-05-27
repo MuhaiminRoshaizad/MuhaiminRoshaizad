@@ -1,8 +1,13 @@
-<h1>hi, i'm muhaimin 👋</h1>
+<div align="center">
 
-mobile app developer from malaysia. i like apps that solve *one annoying thing* properly.
+<img src="assets/me.jpg" width="520" alt="me" />
 
-<img src="assets/me.jpg" width="420" alt="me" />
+# hi, i'm muhaimin 👋
+
+mobile app developer from malaysia.
+i like apps that solve *one annoying thing* properly.
+
+</div>
 
 ---
 
@@ -12,9 +17,13 @@ i build mobile apps — mostly flutter, slowly picking up more on the full-stack
 
 most of what i make starts from a small personal friction — splitting bills with friends, tracking zikir counts, dumb discord bots — and grows only when it needs to.
 
+---
+
 ### what i'm working with
 
 `flutter` · `dart` · `riverpod` · `go` · `next.js` · `react` · `typescript` · `tailwind` · `supabase` · `firebase` · `postgres` · `figma`
+
+---
 
 ### a few projects
 
@@ -24,22 +33,52 @@ most of what i make starts from a small personal friction — splitting bills wi
 
 more on my [portfolio](https://minned.pages.dev) ↗
 
+---
+
 ### education
 
-- **b.comp.sci. (hons.) mobile computing** — uitm kuala terengganu *(2021–2025)*
-- **engineering foundation** — uitm dengkil *(2020–2021)*
-- **spm, electrical & electronic engineering** — smt tar putra *(2018–2019)*
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <ul>
+        <li><b>b.comp.sci. (hons.) mobile computing</b><br/>uitm kuala terengganu &nbsp;·&nbsp; <i>2021–2025</i></li>
+        <br/>
+        <li><b>engineering foundation</b><br/>uitm dengkil &nbsp;·&nbsp; <i>2020–2021</i></li>
+        <br/>
+        <li><b>spm, electrical & electronic engineering</b><br/>smt tar putra &nbsp;·&nbsp; <i>2018–2019</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="assets/graduation.jpg" width="260" alt="graduation" />
+    </td>
+  </tr>
+</table>
 
-<img src="assets/graduation.jpg" width="280" alt="graduation" />
+---
 
 ### off-screen
 
-when i'm not at the laptop i'm usually outside — camping, taking random photos of small things, fixing stuff around the house.
+when i'm not at the laptop i'm usually outside, gaming, or quietly working from a café somewhere.
 
-<img src="assets/camp.jpg" width="280" alt="camp" />
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="assets/camp.jpg" alt="camping" /></td>
+    <td width="33%" align="center"><img src="assets/gaming.jpg" alt="gaming" /></td>
+    <td width="33%" align="center"><img src="assets/work.jpg" alt="working" /></td>
+  </tr>
+  <tr align="center">
+    <td><sub>outside</sub></td>
+    <td><sub>unwinding</sub></td>
+    <td><sub>the daily desk</sub></td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ### find me
 
 [portfolio](https://minned.pages.dev) · [email](mailto:aminmuhaimin192@gmail.com) · [linkedin](https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/) · [instagram](https://www.instagram.com/minnedddd/)
+
+</div>
