@@ -5,7 +5,7 @@
 # hi, i'm muhaimin 👋
 
 mobile app developer from malaysia.
-i like apps that solve *one annoying thing* properly.
+i like apps that solve *annoying thing* properly.
 
 </div>
 
@@ -13,9 +13,9 @@ i like apps that solve *one annoying thing* properly.
 
 ### about
 
-i build mobile apps — mostly flutter, slowly picking up more on the full-stack side (next.js, go) and helping out with general it stuff when it comes up. i'm not trying to sound bigger than the work. i just like building useful things and learning the stack properly.
+i build mobile apps — mostly flutter, picking up more tech stack whenever im free (react native, laravel). i like building useful things and learning the stack properly.
 
-most of what i make starts from a small personal friction — splitting bills with friends, tracking zikir counts, dumb discord bots — and grows only when it needs to.
+mostly i make project that starts from an annoyances faced daily like splitting bills with friends, tracking zikir counts, dumb discord bots — and grows only when it needs to.
 
 ---
 
@@ -58,7 +58,7 @@ more on my [portfolio](https://minned.pages.dev) ↗
 
 ### off-screen
 
-when i'm not at the laptop i'm usually outside, gaming, or quietly working from a café somewhere.
+when i'm not working i'm usually outside, gaming, or quietly bedrotting.
 
 <table>
   <tr>
@@ -67,9 +67,9 @@ when i'm not at the laptop i'm usually outside, gaming, or quietly working from 
     <td width="33%" align="center"><img src="assets/work.jpg" width="100%" alt="working" /></td>
   </tr>
   <tr align="center">
-    <td><sub>outside</sub></td>
-    <td><sub>unwinding</sub></td>
-    <td><sub>the daily desk</sub></td>
+    <td><sub>touching the grass</sub></td>
+    <td><sub>game sesh</sub></td>
+    <td><sub>a lil bit of work</sub></td>
   </tr>
 </table>
 
