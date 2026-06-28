@@ -5,7 +5,7 @@
 # hi, i'm muhaimin 👋
 
 mobile app developer from malaysia.
-i like apps that solve *annoying thing* properly.
+i like apps that solve *annoying thing*.
 
 </div>
 
@@ -13,9 +13,9 @@ i like apps that solve *annoying thing* properly.
 
 ### about
 
-i build mobile apps — mostly flutter, picking up more tech stack whenever im free (react native, laravel). i like building useful things and learning the stack properly.
+i build mobile apps mostly using flutter, picking up more tech stack whenever im free (react native, laravel). i like building useful things and learning the stack properly.
 
-mostly i make project that starts from an annoyances faced daily like splitting bills with friends, tracking zikir counts, dumb discord bots — and grows only when it needs to.
+mostly i make project that starts with an issues that i faced daily like splitting bills with friends, tracking zikir counts, dumb discord bots.
 
 ---
 
