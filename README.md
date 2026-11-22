@@ -1,84 +1,31 @@
-<div align="center">
+<a href="https://minned.my">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light.png" />
+    <img src="assets/wordmark-light.png" width="200" alt="minned_" />
+  </picture>
+</a>
 
-<img src="assets/me.jpg" width="520" alt="me" />
-
-# hi, i'm muhaimin 👋
-
-mobile app developer from malaysia.
-i like apps that solve *annoying thing*.
-
-</div>
-
----
-
-### about
-
-i build mobile apps mostly using flutter, picking up more tech stack whenever im free (react native, laravel). i like building useful things and learning the stack properly.
-
-mostly i make project that starts with an issues that i faced daily like splitting bills with friends, tracking zikir counts, dumb discord bots.
+[minned.my](https://minned.my) · [LinkedIn](https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/) · [Instagram](https://www.instagram.com/minnedddd/)
 
 ---
 
-### what i'm working with
+<img src="assets/selfie.jpg" align="right" width="150" alt="Muhaimin" />
 
-`flutter` · `dart` · `riverpod` · `go` · `next.js` · `react` · `typescript` · `tailwind` · `supabase` · `firebase` · `postgres` · `figma`
+I'm a mobile app developer in Malaysia, working mostly in Flutter. At work I build apps for Android and iOS, and I write the Laravel and Go APIs behind them.
 
----
+Most of my side projects start with something that bugs me, like tracking where my money goes or splitting a bill with friends. A few of them are pinned below.
 
-### a few projects
+Lately I've been setting up CI for my Flutter apps and checking them for accessibility and large text. I'm also learning React Native on the side.
 
-- **[selawathub](https://github.com/MuhaiminRoshaizad/SelawatHub)** — selawat & zikir companion, with daily content and progress sharing. flutter + supabase.
-- **[payback](https://github.com/MuhaiminRoshaizad/PayBack)** — split-bills and repayment tracker for friends/roommates. flutter.
-- **[discord-facts-bot](https://github.com/MuhaiminRoshaizad/discord-facts-bot)** — multi-server bot that posts a fact of the day. python.
-
-more on my [portfolio](https://minned.pages.dev) ↗
+<br clear="right" />
 
 ---
 
-### education
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Claravel%2Cphp%2Cgo%2Csupabase%2Cpostgres%2Cmysql%2Cfirebase%2Creact%2Cnextjs%2Cts%2Ctailwind%2Cfigma&theme=dark&perline=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Claravel%2Cphp%2Cgo%2Csupabase%2Cpostgres%2Cmysql%2Cfirebase%2Creact%2Cnextjs%2Cts%2Ctailwind%2Cfigma&theme=light&perline=15" />
+  <img src="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Claravel%2Cphp%2Cgo%2Csupabase%2Cpostgres%2Cmysql%2Cfirebase%2Creact%2Cnextjs%2Cts%2Ctailwind%2Cfigma&theme=light&perline=15" alt="Flutter, Dart, Kotlin, Laravel, PHP, Go, Supabase, PostgreSQL, MySQL, Firebase, React, Next.js, TypeScript, Tailwind CSS, Figma" />
+</picture>
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <ul>
-        <li><b>b.comp.sci. (hons.) mobile computing</b><br/>uitm kuala terengganu &nbsp;·&nbsp; <i>2021–2025</i></li>
-        <br/>
-        <li><b>engineering foundation</b><br/>uitm dengkil &nbsp;·&nbsp; <i>2020–2021</i></li>
-        <br/>
-        <li><b>spm, electrical & electronic engineering</b><br/>smt tar putra &nbsp;·&nbsp; <i>2018–2019</i></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="assets/graduation.jpg" width="260" alt="graduation" />
-    </td>
-  </tr>
-</table>
-
----
-
-### off-screen
-
-when i'm not working i'm usually outside, gaming, or quietly bedrotting.
-
-<table>
-  <tr>
-    <td width="33%" align="center"><img src="assets/camp.jpg" width="100%" alt="camping" /></td>
-    <td width="33%" align="center"><img src="assets/gaming.jpg" width="100%" alt="gaming" /></td>
-    <td width="33%" align="center"><img src="assets/work.jpg" width="100%" alt="working" /></td>
-  </tr>
-  <tr align="center">
-    <td><sub>touching the grass</sub></td>
-    <td><sub>game sesh</sub></td>
-    <td><sub>a lil bit of work</sub></td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### find me
-
-[portfolio](https://minned.pages.dev) · [email](mailto:aminmuhaimin192@gmail.com) · [linkedin](https://www.linkedin.com/in/muhammad-muhaimin-bin-roshaizad/) · [instagram](https://www.instagram.com/minnedddd/)
-
-</div>
+More projects and my work history are on [minned.my](https://minned.my).
