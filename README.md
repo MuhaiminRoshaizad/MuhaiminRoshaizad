@@ -16,7 +16,7 @@ I'm a mobile app developer in Malaysia, working mostly in Flutter. At work I bui
 
 Most of my side projects start with something that bugs me, like tracking where my money goes or splitting a bill with friends. A few of them are pinned below.
 
-Lately I've been setting up CI for my Flutter apps and checking them for accessibility and large text. I'm also learning React Native on the side.
+Lately I've been setting up CI for my Flutter apps and making them more accessible. I'm also learning React Native on the side.
 
 <br clear="right" />
 
